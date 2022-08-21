@@ -1,6 +1,5 @@
 body {
-	font-family: 'Gabriela';
-	font-size: 14px;
+	font-family: 'Gabriela' !important;
 }
 
 footer a {
@@ -53,7 +52,7 @@ nav.header-nav {
 }
 
 h1, h2, h3 {
-	text-align: center;
+	text-align: center !important;
 }
 
 .site-msg {
